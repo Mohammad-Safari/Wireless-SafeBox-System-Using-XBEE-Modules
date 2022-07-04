@@ -1,0 +1,57 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\variants\\mega"
+  },
+  {
+    "Sourcefile": "d:\\mohammad\\Projects\\CE Labs\\MA Lab\\XBEE\\ARDUINO\\bin-client\\sketch\\client.ino.cpp",
+    "Include": "Wire.h",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\Wire\\src"
+  },
+  {
+    "Sourcefile": "d:\\mohammad\\Projects\\CE Labs\\MA Lab\\XBEE\\ARDUINO\\bin-client\\sketch\\client.ino.cpp",
+    "Include": "Keypad.h",
+    "Includepath": "D:\\mohammad\\Documents\\Arduino\\libraries\\Keypad"
+  },
+  {
+    "Sourcefile": "d:\\mohammad\\Projects\\CE Labs\\MA Lab\\XBEE\\ARDUINO\\bin-client\\sketch\\client.ino.cpp",
+    "Include": "LiquidCrystal.h",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\libraries\\LiquidCrystal\\src"
+  },
+  {
+    "Sourcefile": "d:\\mohammad\\Projects\\CE Labs\\MA Lab\\XBEE\\ARDUINO\\bin-client\\sketch\\client.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\Wire\\src\\Wire.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\Wire\\src\\utility\\twi.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\mohammad\\Documents\\Arduino\\libraries\\Keypad\\Keypad.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\mohammad\\Documents\\Arduino\\libraries\\Keypad\\utility\\Key.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\libraries\\LiquidCrystal\\src\\LiquidCrystal.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
